@@ -12,6 +12,7 @@
         <module>gb32960-proto-codec</module>
         <module>gb32960-receiver-server</module>
         <module>gb32960-client</module>
+        <module>proto-doc</module>
     </modules>
 
     <properties>
